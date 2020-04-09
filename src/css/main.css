@@ -14,7 +14,7 @@ ul {
     height: 60px; 
 }
 
-main{
+main, .content{
     margin: 0 auto;
     width: 980px;
     position: relative;
@@ -131,7 +131,7 @@ button.slick-next{
     width: 50%;
     left: 47%;
     position: absolute;
-    top: 90%
+    top: 600px;
 }
 
 .slick-dots li{
@@ -159,4 +159,23 @@ li.slick-active button{
 
 .slick-initialized{
     overflow: hidden;
+}
+
+.texto-destaque{
+    text-align: center;
+}
+
+.texto-destaque h1{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #818181
+}
+
+.texto-destaque strong{
+    color: #646464;
+}
+
+.texto-destaque p{
+    font-size: 15px;
+    color: #9a9a9a;
 }

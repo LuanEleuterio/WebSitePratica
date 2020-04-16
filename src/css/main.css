@@ -122,6 +122,10 @@ main, .content{
     position: relative;
 }
 
+.slider-principal img{
+    height: auto;
+}
+
 button.slick-prev{
     font-size: 0px;
     border: none;

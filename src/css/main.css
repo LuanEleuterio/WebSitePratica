@@ -157,7 +157,7 @@ button.slick-next{
     width: 50%;
     left: 47%;
     position: absolute;
-    top: 600px;
+    top: 400px;
 }
 
 .slick-dots li{
@@ -239,6 +239,14 @@ li.slick-active button{
     background-color: #eeeeee;
 }
 
+.bloco-imagens-texto p{
+    color: #818181;
+}
+
+.bloco-imagens-texto{
+    color: #717070;
+}
+
 .bloco-imagens-texto:before {
     width: 100%;
     display: inline-block;
@@ -249,6 +257,7 @@ li.slick-active button{
     background-repeat: no-repeat;
     background-position: center;
 }
+
 .bloco-imagens-texto:after {
     width: 100%;
     display: inline-block;
@@ -259,4 +268,109 @@ li.slick-active button{
 
 .slider-secundario img{
     margin: 0 auto;
+}
+
+.footer{
+    background-image: url('../img/footer.png');
+}
+
+.footer h3{
+    text-align: left;
+    color: #ffffff;
+}
+
+.footer p{
+    text-align: left;
+    width: 90%;
+    color: #c1c1c1;
+}
+
+.conteudo{
+    float: left;
+    width: 22%;
+    text-align: center;  
+    padding-left: 20px;
+}
+
+.clock {
+    height: 50px;
+}
+
+.clock:before{
+    content: '';
+    width: 15px;
+    height: 15px;
+    margin-top: 4px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url('../img/time.png');
+    float: left;
+    padding-left: 10px;
+}
+
+.clock:after{
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 20px;
+    border-bottom: 1px solid #5c5c5c;
+}
+
+.location:before, .email:before, .telefone:before{
+    content: '';
+    width: 15px;
+    height: 20px;
+    margin-top: 4px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    float: left;
+    padding-left: 10px;
+}
+
+.location:before{
+    background-image: url('../img/location.png');
+    background-repeat: no-repeat;
+}
+
+.email:before{
+    background-image: url('../img/email.png');
+    background-repeat: no-repeat;
+}
+
+.telefone:before{
+    background-image: url('../img/telefone.png');
+    background-repeat: no-repeat;
+}
+
+.footer-2{
+    height: 90px;
+    background-image: url('../img/footer2.png');
+}
+
+.footer-2 p{
+    text-align: left;
+    padding-top: 22px;
+    color: #c1c1c1;
+}
+
+.footer-creditos{
+    width: 100%;
+}
+
+.creditos{
+    float: left;
+    width: 75%;
+}
+
+.redes-sociais-2{
+    padding-top: 15px;
+    float: right;
+    width: 25%;
+}
+
+.redes-sociais-2 ul li{
+    margin-left: 20px;
+    display: inline-block;
+    padding: 3px;
+    float: left;
 }

@@ -1,2 +1,3 @@
 # web-site-pratica
-Praticando desenvolvimento de um Website não responsivo com Javascript, HTML e CSS. Este projeto tem como único objetivo o aprendizado nas linguagens já mencionadas.
+
+Este projeto tem como único objetivo o aprendizado nas linguagens Javascript, HTML e CSS. Praticando e desenvolvendo conceitos Front-end baseados no layout do site.

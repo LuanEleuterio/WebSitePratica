@@ -1,2 +1,2 @@
-# WebSitePratica
-Praticando desenvolvimento de um Website com Javascript, HTML e CSS. Créditos ao canal 'Escola Front-end' por disponibilizar o material para o desenvolvimento deste projeto.
+# web-site-pratica
+Praticando desenvolvimento de um Website não responsivo com Javascript, HTML e CSS. Este projeto tem como único objetivo o aprendizado nas linguagens já mencionadas.
